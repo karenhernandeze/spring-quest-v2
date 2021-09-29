@@ -25,8 +25,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "env-cmd -f .env react-scripts start",
-    "build": "env-cmd -f .env react-scripts build",
+    "start": "env-cmd -f amplify.yml react-scripts start",
+    "build": "env-cmd -f amplify.yml react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
