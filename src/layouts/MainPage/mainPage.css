@@ -1,0 +1,10 @@
+.bg{
+  height: 600px; 
+}
+
+.text{
+  color: white;
+    top: 54px;
+    position: relative;
+    left: 80px;
+}

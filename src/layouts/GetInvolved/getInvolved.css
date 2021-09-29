@@ -1,0 +1,99 @@
+.bg{
+    min-height: 100vh;
+    height: auto;
+    /* background-color: #023047; */
+}
+
+.textGI{
+    color: white;
+      top: 54px;
+      position: relative;
+      left: 80px;
+    max-width: 100vh;
+
+  }
+
+.btn {
+    border: 3px solid black;
+    padding: 14px 28px;
+    font-size: 16px;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+}
+  
+  .btn:hover {
+    background: white;
+    color: black;
+  }
+
+  .btnSearch {
+    border: 3px solid black;
+    padding: 14px 28px;
+    font-size: 16px;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.3);
+    
+}
+  
+  .btnSearch:hover {
+    background: white;
+    color: black;
+  }
+
+  .btnP {
+    border: 3px solid black;
+    padding: 14px 28px;
+    font-size: 16px;
+    border-color: #023047;
+    color: #023047;
+    background-color: rgba(2,48,71,0.3);
+    width: 150px;
+    /* background-color: transparent; */
+    border-radius: 5px;
+}
+  
+  .btnP:hover {
+    background: #023047;;
+    color: white;
+  }
+
+  .btnA {
+    border: 3px solid black;
+    padding: 14px 28px;
+    font-size: 16px;
+    border-color: #38a3a5;
+    color: #38a3a5;
+    border-radius: 5px;
+    background-color: transparent;
+    width: 150px;
+}
+  
+  .btnA:hover {
+    background: #38a3a5;
+    color: white;
+  }
+
+  .btnB {
+    border: 3px solid black;
+    padding: 14px 28px;
+    font-size: 16px;
+    border-color: #57cc99;
+    color: #57cc99;
+    border-radius: 5px;
+    background-color: transparent;
+    width: 150px;
+}
+  
+  .btnB:hover {
+    background: #57cc99;
+    color: white;
+  }
+
+.gridTop{
+  position: relative;
+    top: -35px;
+    left: 150px;
+}

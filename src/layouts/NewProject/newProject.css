@@ -1,0 +1,49 @@
+.root-center{
+    max-width: 100%;
+    padding-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.step{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.stepOne{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 30px;
+}
+
+.stepThree{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 30px;
+}
+
+.stepOne-out{
+    width: 80%;
+    margin: 25px; 
+    padding-top: 22px;
+}
+
+.stepTwo-out{
+    width: 80%;
+    margin: 25px; 
+    padding-top: 22px;
+    margin: auto;
+}
+
+.steps-buttom{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.grid-right{
+    margin-top: 10px;
+}
+
+.buttons-grid{
+    margin-bottom: 40px;
+}
